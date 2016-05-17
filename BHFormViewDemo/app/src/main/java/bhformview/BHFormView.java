@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.concurrent.RecursiveAction;
 
 /**
- * TODO: document your custom view class.
+ * 熊韦华 2017年5月11日创建.
  */
 
 public class BHFormView extends View {
