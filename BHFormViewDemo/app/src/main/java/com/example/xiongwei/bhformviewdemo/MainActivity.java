@@ -104,6 +104,11 @@ public class MainActivity extends AppCompatActivity {
             public int contentTextColor(BHFormView formView, int column, int row) {
                 return Color.argb(255,0,0,0);
             }
+
+            @Override
+            public float contentTextSize(BHFormView formView, int column, int row) {
+                return 12.0f;
+            }
         });
     }
 }
